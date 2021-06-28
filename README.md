@@ -6,12 +6,7 @@ Completed python bootcamp course in udemy
 
 Algorithms known :
 
-Regression Algorithms :
-Simple Linear Regression
-Multiple Linear Regression
-Polynomial Regression
-Support Vector Machine Regression
-Decision Tree Regression
+Regression Algorithms : Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, Support Vector Machine Regression, Decision Tree Regression
 Random Forest Regression
 
 Classification Algorithms :
